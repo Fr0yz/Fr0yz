@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino superior no Pitagoras , com o curso técnico em informática. Atualmente. bSou apaixonado por tecnologia e compartilho meu conhecimento através do meu github "[Fr0yz](https://github.com/Fr0yz)", onde posto meus projetos e invenções malucas                                                                                                                               
+Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino superior no Pitagoras , com o curso técnico em informática. Atualmente. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github "[Fr0yz](https://github.com/Fr0yz)", onde posto meus projetos e invenções malucas                                                                                                                               
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0096FF?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ighor-frois-031a4723b/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ighorfrois/).
     </a> 
@@ -74,6 +74,14 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
@@ -85,14 +93,14 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=peixotim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Fr0yz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixotim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0yz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
