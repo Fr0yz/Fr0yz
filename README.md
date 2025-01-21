@@ -74,6 +74,14 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/oracle/oracle-original.svg" 
+/>
 <br/>
 <br/>
 
