@@ -52,22 +52,6 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
@@ -81,6 +65,14 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" 
 />
 <br/>
 <br/>
