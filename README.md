@@ -66,6 +66,14 @@ Me chamo Ighor Frois, tenho 25 anos e sou natural de Minas Gerais. Concluí o en
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" 
+/>
 <br/>
 <br/>
 
